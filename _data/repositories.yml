@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - phuang1024
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - phuang1024/Starst3r
+  - phuang1024/Autocar
+  - phuang1024/FractalStudio
+  - phuang1024/BMusic
+  - phuang1024/BoostConverter
