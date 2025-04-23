@@ -74,7 +74,7 @@ ninja.data = [{
               },
             },{id: "projects-linear-regression",
           title: 'Linear Regression',
-          description: "An analysis of the closed form solution obtained with two different methods.",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/linreg/";
             },},{
