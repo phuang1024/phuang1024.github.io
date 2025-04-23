@@ -51,13 +51,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "dropdown-publications",
               title: "publications",
               description: "",
@@ -79,7 +72,12 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{
+            },{id: "projects-linear-regression",
+          title: 'Linear Regression',
+          description: "An analysis of the closed form solution obtained with two different methods.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/linreg/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
