@@ -14,4 +14,6 @@ I experimented with rendering these fractals, applying creative color schemes,
 writing CUDA kernels for the best performance, and making an interactive GUI
 to view the render.
 
+Paper: https://github.com/phuang1024/FractalStudio/tree/master/paper.pdf
+
 https://github.com/phuang1024/FractalStudio
