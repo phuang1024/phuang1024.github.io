@@ -25,11 +25,12 @@ latest_posts:
 ---
 
 Patrick is an undergraduate in electrical engineering at the University of
-Illinois at Urbana-Champaign. He has experience in computer vision and machine
-learning.
+Illinois at Urbana-Champaign. He is interested in low level optimization of
+neural networks, developing computer vision tools for other disciplines, and
+power electronics.
 
-Patrick does his work in GNU/Linux, and finds it much more user friendly than
-Microsoft Windows.
+Patrick does his work in GNU/Linux. He uses Arch Linux with the Hyprland window
+manager, and likes to develop macros and scripts to maximize his efficiency.
 
-Outside of engineering, Patrick enjoys piano, philosophy, sociology, running,
-biking, Ultimate frisbee, and cooking.
+Outside of engineering, Patrick enjoys piano, philosophy, running, Ultimate
+frisbee, and cooking.
