@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: phuang1024@gmail.com
 
@@ -34,3 +34,6 @@ manager, and likes to develop macros and scripts to maximize his efficiency.
 
 Outside of engineering, Patrick enjoys piano, philosophy, running, Ultimate
 frisbee, and cooking.
+
+- [Resume](/assets/pdf/resume_1-24-26.pdf)
+- [Projects](/projects/)
