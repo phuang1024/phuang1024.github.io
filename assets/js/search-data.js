@@ -4,40 +4,45 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+          title: "Projects",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          title: "Repositories",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "projects-all-the-brots",
-          title: 'All the brots',
+        },{id: "projects-fractalstudio",
+          title: 'FractalStudio',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/brots/";
+            },},{id: "projects-bee-thorax-detection-with-dino",
+          title: 'Bee Thorax Detection with DINO',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dino_bee/";
             },},{id: "projects-linear-regression",
           title: 'Linear Regression',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/linreg/";
-            },},{id: "projects-motion-blur-with-pytorch-autograd",
-          title: 'Motion blur with PyTorch autograd',
+            },},{id: "projects-uiuc-piano-catalog",
+          title: 'UIUC Piano Catalog',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/torch_mb/";
+              window.location.href = "/projects/piano_catalog/";
             },},{
         id: 'social-email',
         title: 'email',
