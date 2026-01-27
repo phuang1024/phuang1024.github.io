@@ -1,11 +1,13 @@
 github_users:
   - phuang1024
+  - WaggleNet
 
 repo_description_lines_max: 2
 
 github_repos:
   - phuang1024/Starst3r
-  - phuang1024/Autocar
+  - WaggleNet/BeeSee
   - phuang1024/FractalStudio
-  - phuang1024/BMusic
   - phuang1024/BoostConverter
+  - phuang1024/Autocar
+  - phuang1024/BMusic
