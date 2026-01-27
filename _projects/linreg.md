@@ -2,7 +2,7 @@
 layout: page
 title: Linear Regression
 img: assets/img/linreg.png
-importance: 1
+importance: 0
 category: work
 related_publications: false
 ---

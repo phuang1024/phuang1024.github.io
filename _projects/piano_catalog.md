@@ -2,7 +2,7 @@
 layout: page
 title: UIUC Piano Catalog
 img: assets/img/SmithMemRm.jpg
-importance: 4
+importance: -3
 category: work
 related_publications: false
 ---

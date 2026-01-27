@@ -2,7 +2,7 @@
 layout: page
 title: FractalStudio
 img: assets/img/brots/nebulabrot.jpg
-importance: 2
+importance: -1
 category: work
 related_publications: false
 ---

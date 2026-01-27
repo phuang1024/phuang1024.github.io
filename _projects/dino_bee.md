@@ -2,7 +2,7 @@
 layout: page
 title: Bee Thorax Detection with DINO
 img: assets/img/dino_bee/pca.jpg
-importance: 3
+importance: -2
 category: work
 related_publications: false
 ---
