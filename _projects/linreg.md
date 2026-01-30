@@ -11,4 +11,4 @@ In this paper, we analyze the closed form solution of linear regression,
 derived from two different methods. One method uses principles from machine
 learning, while the other from abstract linear algebra.
 
-[Paper](/assets/pdf/linreg.pdf)
+Paper: </assets/pdf/linreg.pdf>

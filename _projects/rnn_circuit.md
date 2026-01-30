@@ -14,4 +14,4 @@ part of a first order differential equation to model the circuit.
 In this project, I explore this approach, understanding the theory and testing
 on a few example circuits.
 
-[[https://github.com/phuang1024/RNNCircuit]]
+<https://github.com/phuang1024/RNNCircuit>

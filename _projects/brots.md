@@ -21,6 +21,6 @@ to view the render.
 
 ![](assets/img/brots/nebulabrot.jpg)
 
-Paper: https://github.com/phuang1024/FractalStudio/tree/master/paper.pdf
+Paper: <https://github.com/phuang1024/FractalStudio/tree/master/paper.pdf>
 
-Repository: https://github.com/phuang1024/FractalStudio
+Repository: <https://github.com/phuang1024/FractalStudio>
