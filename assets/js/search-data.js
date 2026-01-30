@@ -43,6 +43,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/piano_catalog/";
+            },},{id: "projects-rnn-model-of-circuits",
+          title: 'RNN model of circuits',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rnn_circuit/";
             },},{
         id: 'social-email',
         title: 'email',
