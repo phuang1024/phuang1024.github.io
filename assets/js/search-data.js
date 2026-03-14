@@ -33,6 +33,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dino_bee/";
+            },},{id: "projects-an-exploration-of-gradient-descent",
+          title: 'An exploration of gradient descent',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/grad_desc/";
             },},{id: "projects-linear-regression",
           title: 'Linear Regression',
           description: "",
